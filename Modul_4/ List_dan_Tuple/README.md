@@ -6,12 +6,18 @@ Buatlah program untuk memasukkan data mahasiswa PSTI ke dalam list. Data yang di
 3.	Tanggal Lahir	:
 
 Setelah itu tampilkan seluruh data dalam list dalam format:
-Nama		      :
-NIM		        :
-Tanggal Lahir	:
 
 Nama		      :
+
 NIM		        :
+
+Tanggal Lahir	:
+
+
+Nama		      :
+
+NIM		        :
+
 Tanggal Lahir	:
 
 dsb..
